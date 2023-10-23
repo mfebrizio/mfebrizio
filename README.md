@@ -1,6 +1,7 @@
-- Hi, I’m Mark
+- Hi, I’m Mark!
 - I’m interested in data science and public policy, particularly related to regulations and the US federal rulemaking process.
-- I’m currently learning different approaches to machine learning.
+- Currently, I work as a senior policy analyst at @regulatorystudies.
+- I primarily use Python, but I'm also proficient in R and Stata.
 - How to reach me: mfebrizio@gwu.edu
 
 <!---
