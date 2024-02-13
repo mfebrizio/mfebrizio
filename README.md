@@ -2,6 +2,7 @@
 - I’m interested in data science and public policy, particularly related to regulations and the US federal rulemaking process.
 - Currently, I work as a senior policy analyst at the [GW Regulatory Studies Center](https://github.com/regulatorystudies).
 - I primarily use Python, but I'm also proficient in R and Stata.
+- I'm the author and maintainer of [fr-toolbelt](https://github.com/regulatorystudies/fr-toolbelt.git), a Python package for working with the Federal Register API.
 - How to reach me: mfebrizio@gwu.edu
 
 <!---
